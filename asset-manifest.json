@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/novoapp/static/css/main.a617e044.chunk.css",
+    "main.js": "/novoapp/static/js/main.989dedc9.chunk.js",
+    "main.js.map": "/novoapp/static/js/main.989dedc9.chunk.js.map",
+    "runtime-main.js": "/novoapp/static/js/runtime-main.06bc1144.js",
+    "runtime-main.js.map": "/novoapp/static/js/runtime-main.06bc1144.js.map",
+    "static/js/2.19640a81.chunk.js": "/novoapp/static/js/2.19640a81.chunk.js",
+    "static/js/2.19640a81.chunk.js.map": "/novoapp/static/js/2.19640a81.chunk.js.map",
+    "static/js/3.8f88c26a.chunk.js": "/novoapp/static/js/3.8f88c26a.chunk.js",
+    "static/js/3.8f88c26a.chunk.js.map": "/novoapp/static/js/3.8f88c26a.chunk.js.map",
+    "index.html": "/novoapp/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/novoapp/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.19640a81.chunk.js.LICENSE.txt": "/novoapp/static/js/2.19640a81.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/novoapp/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.06bc1144.js",
+    "static/js/2.19640a81.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.989dedc9.chunk.js"
+  ]
+}
